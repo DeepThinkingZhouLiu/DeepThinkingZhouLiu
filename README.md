@@ -7,6 +7,8 @@
 <p align="center">
   <a href="mailto:zhouliu.919@qq.com">Email</a>
   ·
+  <a href="https://deepthinkingzhouliu.github.io/">Homepage</a>
+  ·
   <a href="https://github.com/OpenDCAI/Paper2Any">Paper2Any</a>
   ·
   <a href="https://github.com/OpenDCAI/OpenPrism">OpenPrism</a>
